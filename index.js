@@ -85,12 +85,12 @@ function init(userInput) {
             name: 'tableOfContents',
             message: 'Which sections would you like to include in your table of contents? (Check all that apply)',
             choices: [' * [Installation](#installation)',
-            ' * [Usage](#usage)',
-            ' * [Credits](#credits)',
-            ' * [License](#license)',
-            ' * [Contributing](#contributing)',
-            ' * [Tests](#tests)',
-            ' * [Questions](#questions)']
+            '\n * [Usage](#usage)',
+            '\n * [Credits](#credits)',
+            '\n * [License](#license)',
+            '\n * [Contributing](#contributing)',
+            '\n * [Tests](#tests)',
+            '\n * [Questions](#questions)']
         },
         {
             type: 'input',
