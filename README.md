@@ -16,9 +16,10 @@ Professional README Generator
 
 ## Installation
 [NODE.JS Download link](https://nodejs.org/en/)
+
 [NPM Instructions](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-- You can access the github code by going to https://github.com/lnguyen87/work-day-scheduler 
+- You can access the github code by going to https://github.com/lnguyen87/readme-generator 
 - Once on the webpage, click the green "code" button and copy the https or ssh address. 
 - Once you have the link copied, open up a terminal such as git bash, navigate to the location you want to create a repository, then type "git clone + [paste copied link]" to download the code to your local computer. 
 - To see if you already have Node.js installed run the following command "node -v"
@@ -39,14 +40,15 @@ Instructions:
 
 
 ## Credits
-Worked in a group with Mikayla and Jason
-Mikayla Howitz - https://github.com/mhowitz
-Jason Wisniewski - https://github.com/JasonWisniewski
+Worked in a group with Mikayla and Jason:
+- Mikayla Howitz - https://github.com/mhowitz
+- Jason Wisniewski - https://github.com/JasonWisniewski
 
 Worked with TA Eric Sayer to generate README.md file and displaying outputs
 
-(https://nodejs.org/en/)
-(https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+[NODE.JS Download link](https://nodejs.org/en/)
+
+[NPM Instructions](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 
 ## Licenses
