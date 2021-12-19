@@ -31,6 +31,10 @@ Professional README Generator
 
 
 ## Usage
+https://watch.screencastify.com/v/6vg638yHT5Wx2oVCvREe
+
+![video preview](assets/sample.gif)
+
 Instructions:
 - The Professional README Generator is used to generate a README.md file based on the user input
 - Open up a terminal to get started
