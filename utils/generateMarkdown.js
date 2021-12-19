@@ -83,11 +83,12 @@ ${data.credits}
 
 
 ## Licenses
+${renderLicenseBadge(data.license)}
+
 ${renderLicenseLink(data.license)}
 
 ${renderLicenseSection(data.license, data.name)}
 
-${renderLicenseBadge(data.license)}
 
 
 ## Contributing

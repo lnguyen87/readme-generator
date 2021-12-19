@@ -23,7 +23,7 @@ function init(userInput) {
                 if (nameInput) {
                     return true;
                 } else {
-                    console.log('Please enter your name');
+                    console.log('Please enter your name!');
                     return false;
                 }
             }
@@ -31,12 +31,12 @@ function init(userInput) {
         {
             type: 'input',
             name: 'username',
-            message: 'Please enter your GitHub username (Required)',
+            message: 'Please enter your GitHub username. (Required)',
             validate: usernameInput => {
                 if (usernameInput) {
                     return true;
                 } else {
-                    console.log('Please enter your GitHub username');
+                    console.log('Please enter your GitHub username!');
                     return false;
                 }
             }
@@ -44,12 +44,12 @@ function init(userInput) {
         {
             type: 'input',
             name: 'email',
-            message: 'Please enter your email address (Required)',
+            message: 'Please enter your email address. (Required)',
             validate: emailInput => {
                 if (emailInput) {
                     return true;
                 } else {
-                    console.log('Please enter your GitHub username');
+                    console.log('Please enter your email address!');
                     return false;
                 }
             }
@@ -62,7 +62,7 @@ function init(userInput) {
                 if (titleInput) {
                     return true;
                 } else {
-                    console.log('Please enter your name');
+                    console.log('Please enter the title of your repository!');
                     return false;
                 }
             }
@@ -70,12 +70,12 @@ function init(userInput) {
         {
             type: 'input',
             name: 'description',
-            message: 'Please provide a description of your project (Required)',
+            message: 'Please provide a description of your project. (Required)',
             validate: descriptionInput => {
                 if (descriptionInput) {
                     return true;
                 } else {
-                    console.log('Please enter your name');
+                    console.log('Please enter a description of your project!');
                     return false;
                 }
             }
