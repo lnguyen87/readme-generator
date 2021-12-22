@@ -3,6 +3,7 @@
 ## Description
 Professional README.md Generator
 
+![badge ](https://img.shields.io/badge/MIT-License-red)
 
 ## Table of Contents 
  * [Installation](#installation),
@@ -15,20 +16,18 @@ Professional README.md Generator
 
 
 ## Installation
-testing
+You can access the github code by going to https://github.com/lnguyen87/readme-generator
 
 
 ## Usage
-testing
+The Professional README Generator is used to generate a README.md file based on the user input
 
 
 ## Credits
-testing
+Worked with TA Eric Sayer to generate README.md file and displaying outputs
 
 
 ## Licenses
-![badge ](https://img.shields.io/badge/MIT-License-red)
-
 https://choosealicense.com/licenses/mit/
 
 
@@ -57,11 +56,11 @@ https://choosealicense.com/licenses/mit/
 
 
 ## Contributing
-testing
+
 
 
 ## Tests 
-testing
+
 
 
 ## Questions

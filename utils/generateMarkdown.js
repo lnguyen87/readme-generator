@@ -65,6 +65,7 @@ function generateMarkdown(data) {
 ## Description
 ${data.description}
 
+${renderLicenseBadge(data.license)}
 
 ## Table of Contents 
 ${data.tableOfContents}
@@ -83,8 +84,6 @@ ${data.credits}
 
 
 ## Licenses
-${renderLicenseBadge(data.license)}
-
 ${renderLicenseLink(data.license)}
 
 ${renderLicenseSection(data.license, data.name)}
